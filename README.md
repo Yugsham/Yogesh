@@ -93,14 +93,6 @@ yogesh = {
 *Working on structured business case studies involving data cleaning, modeling, visualization, and insight storytelling.*  
 🎯 *Objective:* Strengthen business problem-solving and analytical communication.
 
----
-
-### 🧩 Ongoing Projects
-- 📊 Superstore Sales Insights Dashboard (Power BI)  
-- 🛒 Blinkit Business Performance Dashboard (Excel, SQL, Power BI)  
-
-> 🎯 *Every project focuses on transforming raw data into actionable business insights.*
-
 </td>
 </tr>
 </table>
