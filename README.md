@@ -1,12 +1,12 @@
 <!-- Header with animated typing effect -->
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Hello,+I'm+Yogesh+Sharma+👋;Business+Analyst+🛡️;Data+Enthusiast+🚀;Building+Secure+Futures+🌐)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Yogesh+Sharma;MBA+Business+Analytics+Student;Aspiring+Business+Analyst;Turning+Data+into+Business+Insights)](https://git.io/typing-svg)
 
 </div>
 
-<!-- Animated wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yogesh%20Sharma&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<!-- Animated wave header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,12,18&height=170&section=header&text=Business%20Analytics%20Portfolio&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=32"/>
 
 ---
 
