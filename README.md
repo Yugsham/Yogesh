@@ -1,7 +1,7 @@
 <!-- Header with animated typing effect -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Yogesh;MBA+Business+Analytics+Student;Aspiring+Business+Analyst;Turning+Data+into+Business+Insights)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=780&lines=Hello%2C+I'm+Yogesh+Kumar+Sharma;MBA+Business+Analytics+Student;Data+Analyst+Intern+%7C+Power+BI+%7C+Excel+%7C+SQL;Building+Data-Driven+Business+Dashboards+%26+Insights)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,7 +13,7 @@
 📊 I’m an MBA Business Analytics student with a BBA background, experienced in data analysis, business intelligence, and dashboard-driven decision-making.
 
 ```javascript
-const yogesh = {
+yogesh = {
   role: "MBA Business Analytics Student | Aspiring Business Analyst",
   location: "India",
   skills: ["Data Analysis", "Business Intelligence", "Excel", "SQL", "Power BI", "Python (Basics)"],
