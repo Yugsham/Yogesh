@@ -10,14 +10,15 @@
 
 ---
 ### 👨‍💼 About Me
-📊 I’m an MBA student specializing in Business Analytics with a BBA background, passionate about data-driven decision-making, business analysis, and performance insights.
+📊 I’m an MBA Business Analytics student with a BBA background, experienced in data analysis, business intelligence, and dashboard-driven decision-making.
 
 ```javascript
 const yogesh = {
   role: "MBA Business Analytics Student | Aspiring Business Analyst",
   location: "India",
-  skills: ["Business Analysis", "Data Analytics", "Excel", "SQL", "Power BI", "Python"],
-  currentFocus: "Building hands-on analytics projects and business case studies",
+  skills: ["Data Analysis", "Business Intelligence", "Excel", "SQL", "Power BI", "Python (Basics)"],
+  experience: ["Data Analyst Intern – Brainwave Matrix Solutions", "Data Analyst Intern – Elevate Labs"],
+  currentFocus: "Building real-world analytics projects and interactive dashboards for business insights",
 };
 ```
 
