@@ -101,14 +101,22 @@ yogesh = {
 
 ---
 <!-- Featured Projects Section -->
- ## 📁 Featured Projects
+## 📁 Featured Projects
 
-| Project | Description | Tools/Technologies |
-|----------|--------------|--------|
-| [**Brutesight**](https://github.com/himadri2324/brutesight-soc) | ELK-based security system detecting and auto-blocking brute force attacks in real-time. | VMware Workstation, ELK Stack, Sysmon, Mythic, Kali Linux (VM), Windows Server, Ubuntu 22.04 LTS |
-| [**Securex**](https://github.com/himadri2324/securex-SOC) | Real-time SOC detection of Windows brute-force attacks using Elastic SIEM. | VMware Workstation, Microsoft Windows (VM), Elastic Stack, Elasticsearch, Kibana, Elastic Security (SIEM), Elastic Agent, Winlogbeat, Windows Security Event Logs, Powershell |
-| [**CloudSOC**](https://github.com/himadri2324/CloudSOC) | Cloud-based SOC integrating SIEM detection with automated SOAR incident response. | Elastic SIEM, Elasticsearch, Kibana, Microsoft Azure, Azure Logic Apps, Azure SOAR Playbooks |
+| Project | Description | Tools / Technologies |
+|--------|-------------|----------------------|
+| [**Sales Analysis**](https://github.com/Yugsham/Sales-Analysis) | Analyzed sales data to identify trends, revenue patterns, and performance gaps, supporting data-driven business decisions. | Excel, SQL, Power BI |
+| [**Twitter Sentiment Analysis**](https://github.com/Yugsham/Twitter-sentiment-) | Performed sentiment analysis on Twitter data to classify customer opinions and extract actionable insights. | Python (Pandas, NLP basics), Data Visualization |
+| [**Data Visualization**](https://github.com/Yugsham/Data-Visualization) | Created visual dashboards and charts to present KPIs and business insights in a clear, decision-ready format. | Power BI, Excel |
+| [**Sales Data Analysis**](https://github.com/Yugsham/Sales-Data) | Cleaned and analyzed raw sales datasets to track KPIs, profitability, and performance metrics. | Advanced Excel, SQL |
 
+---
+
+### 📌 Key Focus Across Projects
+- Data Cleaning & Transformation  
+- KPI Tracking & Business Performance Analysis  
+- Interactive Dashboards & Visual Storytelling  
+- Data-Driven Decision Support
   </table>
 
 </div>
