@@ -85,7 +85,7 @@ yogesh = {
 
 🧠 **Data Analytics Case Studies**  
 *Working on structured business case studies involving data cleaning, modeling, visualization, and insight storytelling.*  
----
+
 </td>
 </tr>
 </table>
