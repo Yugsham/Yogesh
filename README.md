@@ -150,6 +150,5 @@ yogesh = {
 ---
 
 <div align="center">
-📊 “Thank you for visiting my portfolio. I’m always open to discussions on business analytics, data insights, and analytics-driven decision making.”  
-If you find my projects useful, feel free to ⭐ them!
+📊 “Thank you for visiting my portfolio. I’m always open to discussions on business analytics, data insights, and analytics-driven decision making.” ⭐
 </div>
