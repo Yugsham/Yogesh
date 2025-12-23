@@ -6,7 +6,7 @@
 </div>
 
 <!-- Animated wave header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,12,18&height=170&section=header&text=Yogesh%20Kumar%Sharma%20Portfolio&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,12,18&height=170&section=header&text=Yogesh%20Kumar%20Sharma%20&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=32"/>
 
 ---
 
