@@ -110,8 +110,6 @@ yogesh = {
 | [**Data Visualization**](https://github.com/Yugsham/Data-Visualization) | Created visual dashboards and charts to present KPIs and business insights in a clear, decision-ready format. | Power BI, Excel |
 | [**Sales Data Analysis**](https://github.com/Yugsham/Sales-Data) | Cleaned and analyzed raw sales datasets to track KPIs, profitability, and performance metrics. | Advanced Excel, SQL |
 
----
-
 ### 📌 Key Focus Across Projects
 - Data Cleaning & Transformation  
 - KPI Tracking & Business Performance Analysis  
@@ -121,19 +119,21 @@ yogesh = {
 
 </div>
 
- ---
- 
+---
+
 ### 🎓 Certifications & Learning
-- Cisco **Introduction to Cybersecurity**
-- Google **Cybersecurity Professional Certificate**
-- TryHackMe **SOC Level 1**
-- Tines **Automation Specialist (Free Course)**
+- **Accenture North America – Data Analytics & Visualization Job Simulation (Forage)**
+- **Deloitte Australia – Data Analytics Job Simulation (Forage)**
+- **SQL for Data Analysis** – Udemy
+- **MS Excel for Business Analysis** – Great Learning
 
 ---
 
-### Platforms & Profiles
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Level%20X-9cf?style=for-the-badge)](https://tryhackme.com/p/LittleSun4lower)  
-[![Hack The Box](https://img.shields.io/badge/HackTheBox-Rank%20X-6f42c1?style=for-the-badge)](https://academy.hackthebox.com/dashboard)  
+### 📊 Learning Platforms & Profiles
+[![Forage](https://img.shields.io/badge/Forage-Data%20Analytics-0A66C2?style=for-the-badge)](https://www.theforage.com/)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-Data%20Analytics-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)  
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Power%20BI%20%26%20Analytics-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-SQL%20Practice-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)  
 
 ---
 
@@ -141,16 +141,15 @@ yogesh = {
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/himadri-singh-6a6927261/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge)](https://x.com/LittleSun4lower)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge)](https://medium.com/@himadrisingh061)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge)](mailto:5inghhim4dri@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-Analytics%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yugsham)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogeshkumarsharma1110@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-💙 “Thanks for visiting! Let’s connect and make security smarter together.” 
-If you liked my projects, consider giving them a star!⭐
+📊 “Thank you for visiting my portfolio. I’m always open to discussions on business analytics, data insights, and analytics-driven decision making.”  
+If you find my projects useful, feel free to ⭐ them!
 </div>
