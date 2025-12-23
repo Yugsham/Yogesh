@@ -23,7 +23,6 @@ yogesh = {
 ```
 
 ---
-
 <!-- Tech Stack & What I'm Working On Side by Side -->
 <div align="center">
 
@@ -33,104 +32,74 @@ yogesh = {
 
 ### 🛠️ Tech Stack
 
-**Languages & Frameworks**
+**Analytics & Programming Languages**
 
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![SPL](https://img.shields.io/badge/SPL-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![KQL](https://img.shields.io/badge/KQL-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Python](https://img.shields.io/badge/Python_(Basics)-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R_(Basics)-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ---
 
-**SIEM & SOAR**
+**Business Intelligence & Visualization**
 
-![Wazuh](https://img.shields.io/badge/Wazuh-005C97?style=for-the-badge&logo=wazuh&logoColor=white)
-![MISP](https://img.shields.io/badge/MISP-FF6C37?style=for-the-badge&logo=misp&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
-![TheHive](https://img.shields.io/badge/TheHive-F7C600?style=for-the-badge&logo=thehive&logoColor=black)
-![Cortex](https://img.shields.io/badge/Cortex-2E2E2E?style=for-the-badge&logo=cortex&logoColor=white)
-![Shuffle SOAR](https://img.shields.io/badge/Shuffle%20SOAR-1E90FF?style=for-the-badge&logo=shuffle&logoColor=white)
-![Graylog](https://img.shields.io/badge/Graylog-E40045?style=for-the-badge&logo=graylog&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
-**Cloud**
+**Data & Analytics Skills**
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
----
-
-**Network & Security Tools**
-
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white)
-![Snort](https://img.shields.io/badge/Snort-F15A24?style=for-the-badge&logo=snort&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-0056A6?style=for-the-badge&logo=metasploit&logoColor=white)
-![tcpdump](https://img.shields.io/badge/tcpdump-2C3539?style=for-the-badge&logo=linux&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
-![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-4CAF50?style=for-the-badge)
+![Data Transformation](https://img.shields.io/badge/Data_Transformation-009688?style=for-the-badge)
+![Dashboard Design](https://img.shields.io/badge/Dashboard_Design-3F51B5?style=for-the-badge)
+![KPI Analysis](https://img.shields.io/badge/KPI_Analysis-FF5722?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-673AB7?style=for-the-badge)
 
 ---
 
-**Automation & Monitoring**
+**Professional Skills**
 
-![Splunk SOAR](https://img.shields.io/badge/Splunk%20SOAR-F16822?style=for-the-badge&logo=splunk&logoColor=black)
-![Graylog](https://img.shields.io/badge/Graylog-E40045?style=for-the-badge&logo=graylog&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Nagios](https://img.shields.io/badge/Nagios-2E2E2E?style=for-the-badge&logo=nagios&logoColor=white)
-
----
-
-**Virtualization & OS**
-
-![VMware Workstation](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-008AD7?style=for-the-badge&logo=microsoft&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Analytical Thinking](https://img.shields.io/badge/Analytical_Thinking-607D8B?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-795548?style=for-the-badge)
+![Communication](https://img.shields.io/badge/Communication-2196F3?style=for-the-badge)
+![Time Management](https://img.shields.io/badge/Time_Management-9C27B0?style=for-the-badge)
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🔥 What I'm Working On
 
-🚀 **SIEM Automation Project**  
-*Designing advanced detection rules and automating alert triage pipelines using Tines and Wazuh.*  
-💡 *Goal:* Reduce analyst response time and improve alert accuracy.
+📊 **Sales Performance Analytics Dashboards**  
+*Designing interactive Power BI dashboards to analyze monthly sales, profit trends, and regional performance.*  
+💡 *Goal:* Enable data-driven sales strategy optimization.
 
 ---
 
-☁️ **Azure Security Monitoring**  
-*Building end-to-end visibility with Microsoft Sentinel and Defender for Cloud.*  
-📊 *Focus:* Creating custom KQL queries for proactive threat detection.
+📦 **Retail & E-Commerce Data Analysis**  
+*Analyzing large transactional datasets using SQL and Advanced Excel to identify revenue opportunities and KPIs.*  
+📈 *Focus:* Improving reporting accuracy and business visibility.
 
 ---
 
-🧠 **DFIR Investigation Lab**  
-*Simulating and investigating cyber incidents using Volatility, Autopsy, and Splunk.*  
-🔍 *Objective:* Strengthen digital forensic and incident response workflows.
+📉 **Business Performance Reporting Automation**  
+*Automating recurring reports and dashboards to reduce manual effort and enhance stakeholder decision-making.*  
+⚙️ *Outcome:* Faster insights and improved operational efficiency.
 
 ---
 
-🛠️ **Open Source SOC Playbooks**  
-*Contributing to blue-team automation repositories and sharing threat detection use-cases.*  
-🌐 *Impact:* Empowering the community with reusable detection and response logic.
+🧠 **Data Analytics Case Studies**  
+*Working on structured business case studies involving data cleaning, modeling, visualization, and insight storytelling.*  
+🎯 *Objective:* Strengthen business problem-solving and analytical communication.
 
 ---
 
-### 🧩 Ongoing Projects & Research
+### 🧩 Ongoing Projects
+- 📊 Superstore Sales Insights Dashboard (Power BI)  
+- 🛒 Blinkit Business Performance Dashboard (Excel, SQL, Power BI)  
 
-- 🚀 Currectly working on the SIEM projects and focusing on create, monitor, detect, respond and secure.
-> 🎯 *Every project is focused on building smarter, automated, and evidence-driven defense systems.*
+> 🎯 *Every project focuses on transforming raw data into actionable business insights.*
 
 </td>
 </tr>
