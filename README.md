@@ -9,17 +9,15 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,12,18&height=170&section=header&text=Yogesh%20Kumar%20Sharma%20&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=32"/>
 
 ---
+### 👨‍💼 About Me
+📊 I’m an MBA student specializing in Business Analytics with a BBA background, passionate about data-driven decision-making, business analysis, and performance insights.
 
-### 👨‍💻 About Me
-🚀 I’m a Cybersecurity Student and SOC Analyst passionate about Cloud, Threat Detection, and Security Automation.
-
-```typescript
-const himadri = {
-  role: "SOC Analyst, Cybersecurity Enthusiast",
-  location: "India 🇮🇳",
-  passions: ["SOC Operations", "Cloud Security", "SIEM", "SOAR", "Automation"],
-  currentFocus: "Building hands-on projects to strength my skills",
-  funFact: "I sleep better after checking all system logs💻",
+```javascript
+const yogesh = {
+  role: "MBA Business Analytics Student | Aspiring Business Analyst",
+  location: "India",
+  skills: ["Business Analysis", "Data Analytics", "Excel", "SQL", "Power BI", "Python"],
+  currentFocus: "Building hands-on analytics projects and business case studies",
 };
 ```
 
