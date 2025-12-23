@@ -73,26 +73,19 @@ yogesh = {
 
 📊 **Sales Performance Analytics Dashboards**  
 *Designing interactive Power BI dashboards to analyze monthly sales, profit trends, and regional performance.*  
-💡 *Goal:* Enable data-driven sales strategy optimization.
-
 ---
 
 📦 **Retail & E-Commerce Data Analysis**  
 *Analyzing large transactional datasets using SQL and Advanced Excel to identify revenue opportunities and KPIs.*  
-📈 *Focus:* Improving reporting accuracy and business visibility.
-
 ---
 
 📉 **Business Performance Reporting Automation**  
 *Automating recurring reports and dashboards to reduce manual effort and enhance stakeholder decision-making.*  
-⚙️ *Outcome:* Faster insights and improved operational efficiency.
-
 ---
 
 🧠 **Data Analytics Case Studies**  
 *Working on structured business case studies involving data cleaning, modeling, visualization, and insight storytelling.*  
-🎯 *Objective:* Strengthen business problem-solving and analytical communication.
-
+---
 </td>
 </tr>
 </table>
