@@ -103,8 +103,6 @@ yogesh = {
 |--------|-------------|----------------------|
 | [**Sales Analysis**](https://github.com/Yugsham/Sales-Analysis) | Analyzed sales data to identify trends, revenue patterns, and performance gaps, supporting data-driven business decisions. | Excel, SQL, Power BI |
 | [**Twitter Sentiment Analysis**](https://github.com/Yugsham/Twitter-sentiment-) | Performed sentiment analysis on Twitter data to classify customer opinions and extract actionable insights. | Python (Pandas, NLP basics), Data Visualization |
-| [**Data Visualization**](https://github.com/Yugsham/Data-Visualization) | Created visual dashboards and charts to present KPIs and business insights in a clear, decision-ready format. | Power BI, Excel |
-| [**Sales Data Analysis**](https://github.com/Yugsham/Sales-Data) | Cleaned and analyzed raw sales datasets to track KPIs, profitability, and performance metrics. | Advanced Excel, SQL |
 
 ### 📌 Key Focus Across Projects
 - Data Cleaning & Transformation  
