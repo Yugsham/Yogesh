@@ -127,7 +127,6 @@ yogesh = {
 [![Forage](https://img.shields.io/badge/Forage-Data%20Analytics-0A66C2?style=for-the-badge)](https://www.theforage.com/)  
 [![Kaggle](https://img.shields.io/badge/Kaggle-Data%20Analytics-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)  
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Power%20BI%20%26%20Analytics-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-SQL%20Practice-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)  
 
 ---
 
